@@ -1,0 +1,66 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19-Feb-2022, 11:14:30 AM
+    Author     : PREDATOR
+*/
+
+#bheader{
+    display:block;
+    padding: 10px;
+    background-color: #FADBD8;
+    margin: 1px;
+}
+
+#bheader div{
+    padding-top:.5px;
+}
+#bheader ul {
+    border-bottom:2px solid black;
+    border-top:2px solid black;
+    width: 97%;
+}
+#bheader li{
+    display: inline-block;
+    font-size: 20px;
+}
+.nav{
+    text-decoration: none;
+    float: right;
+    color: #404040;
+    border-right: 2px solid black;
+    padding: 5px;
+}
+#bheader img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding: 6px;
+    
+}
+#topheader{
+
+}
+#bheader h1{
+    color: #B03A2E;
+}
+#bheader h2{
+    color: #000000;
+}
+#bfooter{
+    display:block;
+    color: #B03A2E;
+    bottom: 0;
+    position: absolute;
+    border-bottom:2px solid black;
+    border-top:2px solid black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+table, td, tr  {
+    border: 1px solid black;
+}
